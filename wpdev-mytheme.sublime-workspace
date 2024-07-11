@@ -1,0 +1,1678 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"align",
+				"align-items"
+			],
+			[
+				"if",
+				"if\tif …"
+			],
+			[
+				"post",
+				"postItem"
+			],
+			[
+				"cu",
+				"current"
+			],
+			[
+				"cur",
+				"current"
+			],
+			[
+				"remove",
+				"remove_item"
+			],
+			[
+				"remo",
+				"remove_end"
+			],
+			[
+				"insert",
+				"insert_after"
+			],
+			[
+				"cl",
+				"class\tclass-..-(class)"
+			],
+			[
+				"Bra",
+				"BranchID"
+			],
+			[
+				"Stude",
+				"StudentID"
+			],
+			[
+				"Br",
+				"BranchID"
+			],
+			[
+				"VA",
+				"VARCHAR"
+			],
+			[
+				"B",
+				"BranchID"
+			],
+			[
+				"string",
+				"string.h"
+			],
+			[
+				"ios",
+				"iostream"
+			],
+			[
+				"Route",
+				"Router"
+			],
+			[
+				"remove_",
+				"remove_first"
+			],
+			[
+				"curr",
+				"current"
+			],
+			[
+				"__i",
+				"__iter__"
+			],
+			[
+				"el",
+				"elif"
+			],
+			[
+				"prin",
+				"printSLL"
+			],
+			[
+				"get",
+				"getEmpid"
+			],
+			[
+				"sala",
+				"setSalary"
+			],
+			[
+				"--pri",
+				"--primary-dark"
+			],
+			[
+				"--ba",
+				"--shadow-base"
+			],
+			[
+				"grid-te",
+				"grid-template-columns"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"li",
+				"liSubMenus"
+			],
+			[
+				"sub",
+				"subMenus"
+			],
+			[
+				"menu",
+				"menu_html"
+			],
+			[
+				"tra",
+				"transition"
+			],
+			[
+				"box-s",
+				"box-shadow"
+			],
+			[
+				"lin",
+				"linear-gradient()"
+			],
+			[
+				"min-",
+				"min-width"
+			],
+			[
+				"--bg",
+				"--navbar-bg-dark"
+			],
+			[
+				"--",
+				"--navbar-bg-dark"
+			],
+			[
+				"mark",
+				"marks_int"
+			],
+			[
+				"marks",
+				"marks_gate"
+			],
+			[
+				"def",
+				"defs\tMethod"
+			],
+			[
+				"tran",
+				"transition"
+			],
+			[
+				"newL",
+				"newsList"
+			],
+			[
+				"news",
+				"newsListWrapper"
+			],
+			[
+				"newsl",
+				"newsList"
+			],
+			[
+				"ren",
+				"renderNews"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"line",
+				"line-height"
+			],
+			[
+				"--hs",
+				"--theme-color-hsl"
+			],
+			[
+				"ro",
+				"rotateZ()"
+			],
+			[
+				"border",
+				"border-color"
+			],
+			[
+				"b",
+				"border"
+			],
+			[
+				"stud",
+				"students"
+			],
+			[
+				"s",
+				"s3"
+			],
+			[
+				"card",
+				"cardFootText"
+			],
+			[
+				"for",
+				"for\tfor (…) {…}"
+			],
+			[
+				"Faculty",
+				"FacultyListItem"
+			],
+			[
+				"border-top",
+				"border-top-color"
+			],
+			[
+				"under",
+				"text-underline-offset"
+			],
+			[
+				"seco",
+				"secondary-600"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"php",
+				"phpversion()"
+			],
+			[
+				"user",
+				"userID"
+			],
+			[
+				"exp",
+				"expenses"
+			],
+			[
+				"setT",
+				"setTotalExpenses"
+			],
+			[
+				"set",
+				"setTotalIncome"
+			],
+			[
+				"tot",
+				"totalExpenses"
+			],
+			[
+				"useSta",
+				"useState\tuseState"
+			],
+			[
+				"use",
+				"useNavigate"
+			],
+			[
+				"useEffe",
+				"useEffect\tuseEffect"
+			],
+			[
+				"desc",
+				"description"
+			],
+			[
+				"Tra",
+				"TransactionList"
+			],
+			[
+				"fire",
+				"firebase"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"uno",
+				"unordered_map"
+			],
+			[
+				"unord",
+				"unordered_map"
+			],
+			[
+				"print",
+				"printf\tprintf …"
+			],
+			[
+				"pr",
+				"fprintf\tfprintf …"
+			],
+			[
+				"de",
+				"deQueue"
+			],
+			[
+				"clas",
+				"ClassLoader"
+			],
+			[
+				"cla",
+				"class_alias()"
+			],
+			[
+				"unorde",
+				"unordered_map"
+			],
+			[
+				"bin",
+				"bin_hex_map"
+			],
+			[
+				"str",
+				"str_right"
+			],
+			[
+				"TabPan",
+				"TabPanel"
+			],
+			[
+				"Tab",
+				"TabPanels"
+			],
+			[
+				"List",
+				"ListIcon"
+			],
+			[
+				"create",
+				"createRoutesFromElements"
+			],
+			[
+				"E",
+				"Enroll"
+			],
+			[
+				"ali",
+				"align-items"
+			],
+			[
+				"max-",
+				"max-width"
+			],
+			[
+				"t",
+				"type"
+			],
+			[
+				"ge",
+				"generatedHTML"
+			],
+			[
+				"comp",
+				"compiledTemplate"
+			],
+			[
+				"incl",
+				"incl1\tinclude_once …"
+			],
+			[
+				"ech",
+				"echo()"
+			],
+			[
+				"rat",
+				"rating_value"
+			],
+			[
+				"fee",
+				"feedback_content"
+			],
+			[
+				"rating",
+				"rating_value"
+			],
+			[
+				"anima",
+				"animation-duration"
+			],
+			[
+				"object",
+				"object-position"
+			],
+			[
+				"i",
+				"initial"
+			],
+			[
+				"no",
+				"nowrap"
+			],
+			[
+				"u",
+				"uppercase"
+			],
+			[
+				"lette",
+				"border-left-style"
+			],
+			[
+				"inc",
+				"incl1\tinclude_once …"
+			],
+			[
+				"fun",
+				"rename_function()"
+			],
+			[
+				"func",
+				"func_get_arg()"
+			],
+			[
+				"echo",
+				"echo()"
+			],
+			[
+				"--na",
+				"--navbar-link-color"
+			],
+			[
+				"--the",
+				"--theme-main-dark"
+			],
+			[
+				"sty",
+				"style"
+			],
+			[
+				"img_",
+				"img_url"
+			],
+			[
+				"font",
+				"font-display"
+			],
+			[
+				"bord",
+				"border"
+			],
+			[
+				"fle",
+				"inline-flex"
+			],
+			[
+				"comments",
+				"comments_template"
+			],
+			[
+				"avinash",
+				"avinash_widget_areas"
+			],
+			[
+				"grid-templ",
+				"grid-template-columns"
+			],
+			[
+				"logo",
+				"logo_details"
+			],
+			[
+				"df",
+				"defs\tMethod"
+			],
+			[
+				"activ",
+				"activeTabPanelClass"
+			],
+			[
+				"corr",
+				"correspondingPanel"
+			],
+			[
+				"activeT",
+				"activeTabButtonClass"
+			],
+			[
+				"act",
+				"activeTabPanelClass"
+			],
+			[
+				"tabPan",
+				"tabPanels"
+			],
+			[
+				"tab",
+				"tabPanelClass"
+			],
+			[
+				"_",
+				"_parent"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "single.php",
+			"settings":
+			{
+				"buffer_size": 2281,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "includes/section-post.php",
+			"settings":
+			{
+				"buffer_size": 607,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+				[
+					4,
+					1,
+					"paste",
+					null,
+					"AQAAABUBAAAAAAAAOQEAAAAAAAAAAAAA",
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAKwEAAAAAAAArAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					5,
+					1,
+					"swap_line_down",
+					null,
+					"AgAAAMkBAAAAAAAA7QEAAAAAAAAAAAAAOQEAAAAAAAA5AQAAAAAAACQAAAAgICAgICAgIDxzcGFuIGNsYXNzPSJteC0zIj58PC9zcGFuPgo",
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAATwEAAAAAAABPAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					7,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AgAAAMgBAAAAAAAAyQEAAAAAAAAAAAAAyQEAAAAAAADRAQAAAAAAAAAAAAA",
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAyAEAAAAAAADIAQAAAAAAAP///////+9/"
+				],
+				[
+					8,
+					1,
+					"insert",
+					{
+						"characters": "span"
+					},
+					"BAAAANEBAAAAAAAA0gEAAAAAAAAAAAAA0gEAAAAAAADTAQAAAAAAAAAAAADTAQAAAAAAANQBAAAAAAAAAAAAANQBAAAAAAAA1QEAAAAAAAAAAAAA",
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAA0QEAAAAAAADRAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					9,
+					1,
+					"emmet_expand_abbreviation",
+					{
+						"tab": true
+					},
+					"AgAAANEBAAAAAAAA0QEAAAAAAAAEAAAAc3BhbtEBAAAAAAAA3gEAAAAAAAAAAAAA",
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAA1QEAAAAAAADVAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					10,
+					1,
+					"insert",
+					{
+						"characters": "php"
+					},
+					"AwAAANcBAAAAAAAA2AEAAAAAAAAAAAAA2AEAAAAAAADZAQAAAAAAAAAAAADZAQAAAAAAANoBAAAAAAAAAAAAAA",
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAA1wEAAAAAAADXAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					11,
+					1,
+					"insert_completion",
+					{
+						"completion": "<?${TM_PHP_OPEN_TAG:php} $0 ?>",
+						"format": "snippet",
+						"keep_prefix": false,
+						"must_insert": false,
+						"trigger": "php"
+					},
+					"AgAAANcBAAAAAAAA1wEAAAAAAAADAAAAcGhw1wEAAAAAAADgAQAAAAAAAAAAAAA",
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAA2gEAAAAAAADaAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					12,
+					1,
+					"insert",
+					{
+						"characters": "the_categor"
+					},
+					"CwAAAN0BAAAAAAAA3gEAAAAAAAAAAAAA3gEAAAAAAADfAQAAAAAAAAAAAADfAQAAAAAAAOABAAAAAAAAAAAAAOABAAAAAAAA4QEAAAAAAAAAAAAA4QEAAAAAAADiAQAAAAAAAAAAAADiAQAAAAAAAOMBAAAAAAAAAAAAAOMBAAAAAAAA5AEAAAAAAAAAAAAA5AEAAAAAAADlAQAAAAAAAAAAAADlAQAAAAAAAOYBAAAAAAAAAAAAAOYBAAAAAAAA5wEAAAAAAAAAAAAA5wEAAAAAAADoAQAAAAAAAAAAAAA",
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAA3QEAAAAAAADdAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					13,
+					1,
+					"insert",
+					{
+						"characters": "y"
+					},
+					"AQAAAOgBAAAAAAAA6QEAAAAAAAAAAAAA",
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAA6AEAAAAAAADoAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					14,
+					1,
+					"insert_snippet",
+					{
+						"contents": "($0)"
+					},
+					"AQAAAOkBAAAAAAAA6wEAAAAAAAAAAAAA",
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAA6QEAAAAAAADpAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					17,
+					1,
+					"insert_snippet",
+					{
+						"contents": "\"$0\""
+					},
+					"AQAAAOoBAAAAAAAA7AEAAAAAAAAAAAAA",
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAA6gEAAAAAAADqAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					18,
+					1,
+					"insert",
+					{
+						"characters": ","
+					},
+					"AQAAAOsBAAAAAAAA7AEAAAAAAAAAAAAA",
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAA6wEAAAAAAADrAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					19,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAOwBAAAAAAAA7QEAAAAAAAAAAAAA",
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAA7AEAAAAAAADsAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					20,
+					2,
+					"left_delete",
+					null,
+					"AgAAAOwBAAAAAAAA7AEAAAAAAAABAAAAIOsBAAAAAAAA6wEAAAAAAAABAAAALA",
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAA7QEAAAAAAADtAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					21,
+					1,
+					"insert",
+					{
+						"characters": "&bull;"
+					},
+					"BgAAAOsBAAAAAAAA7AEAAAAAAAAAAAAA7AEAAAAAAADtAQAAAAAAAAAAAADtAQAAAAAAAO4BAAAAAAAAAAAAAO4BAAAAAAAA7wEAAAAAAAAAAAAA7wEAAAAAAADwAQAAAAAAAAAAAADwAQAAAAAAAPEBAAAAAAAAAAAAAA",
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAA6wEAAAAAAADrAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					22,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAPEBAAAAAAAA8gEAAAAAAAAAAAAA",
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAA8QEAAAAAAADxAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					25,
+					1,
+					"insert",
+					{
+						"characters": "i.fa.f"
+					},
+					"BgAAANcBAAAAAAAA2AEAAAAAAAAAAAAA2AEAAAAAAADZAQAAAAAAAAAAAADZAQAAAAAAANoBAAAAAAAAAAAAANoBAAAAAAAA2wEAAAAAAAAAAAAA2wEAAAAAAADcAQAAAAAAAAAAAADcAQAAAAAAAN0BAAAAAAAAAAAAAA",
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAA1wEAAAAAAADXAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					26,
+					1,
+					"insert",
+					{
+						"characters": "a-tags"
+					},
+					"BgAAAN0BAAAAAAAA3gEAAAAAAAAAAAAA3gEAAAAAAADfAQAAAAAAAAAAAADfAQAAAAAAAOABAAAAAAAAAAAAAOABAAAAAAAA4QEAAAAAAAAAAAAA4QEAAAAAAADiAQAAAAAAAAAAAADiAQAAAAAAAOMBAAAAAAAAAAAAAA",
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAA3QEAAAAAAADdAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					27,
+					1,
+					"emmet_expand_abbreviation",
+					{
+						"tab": true
+					},
+					"AgAAANcBAAAAAAAA1wEAAAAAAAAMAAAAaS5mYS5mYS10YWdz1wEAAAAAAADxAQAAAAAAAAAAAAA",
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAA4wEAAAAAAADjAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					30,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAPEBAAAAAAAA8gEAAAAAAAAAAAAA",
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAA8QEAAAAAAADxAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					33,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAAYCAAAAAAAABwIAAAAAAAAAAAAA",
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAABgIAAAAAAAAGAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					38,
+					1,
+					"insert",
+					{
+						"characters": ","
+					},
+					"AgAAAAYCAAAAAAAABwIAAAAAAAAAAAAABwIAAAAAAAAHAgAAAAAAAAcAAAAgJmJ1bGw7",
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAADQIAAAAAAAAGAgAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"file": "functions.php",
+			"settings":
+			{
+				"buffer_size": 1308,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "template-contactus.php",
+			"settings":
+			{
+				"buffer_size": 996,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+				[
+					5,
+					1,
+					"insert",
+					{
+						"characters": " mb-3"
+					},
+					"BQAAAO8AAAAAAAAA8AAAAAAAAAAAAAAA8AAAAAAAAADxAAAAAAAAAAAAAADxAAAAAAAAAPIAAAAAAAAAAAAAAPIAAAAAAAAA8wAAAAAAAAAAAAAA8wAAAAAAAAD0AAAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAO8AAAAAAAAA7wAAAAAAAAAAAAAAAADwvw"
+				]
+			]
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"scss",
+				"Set Syntax: SCSS"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"markdo",
+				"Set Syntax: Markdown"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"ht",
+				"Set Syntax: HTML"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"plain",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"python",
+				"Set Syntax: Python"
+			],
+			[
+				"pug",
+				"Set Syntax: Pug"
+			],
+			[
+				"sel",
+				"UI: Select Theme"
+			],
+			[
+				"bala",
+				"Emmet: Balance Outward"
+			],
+			[
+				"sql",
+				"Set Syntax: SQL"
+			],
+			[
+				"previe",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"scs",
+				"Set Syntax: SCSS"
+			],
+			[
+				"jsx",
+				"Set Syntax: JSX"
+			],
+			[
+				"pyth",
+				"Set Syntax: Python"
+			],
+			[
+				"balan",
+				"Emmet: Balance Outward"
+			],
+			[
+				"renam",
+				"Emmet: Rename Tag"
+			],
+			[
+				"wrap",
+				"Emmet: Wrap with Abbreviation"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"ren",
+				"Emmet: Rename Tag"
+			],
+			[
+				"setting",
+				"Preferences: Settings"
+			],
+			[
+				"rena",
+				"Emmet: Rename Tag"
+			],
+			[
+				"preview",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"Routes",
+				"Package Control: List Unmanaged Packages"
+			],
+			[
+				"pre",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"ma",
+				"Set Syntax: Markdown"
+			],
+			[
+				"mark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"color",
+				"UI: Select Color Scheme"
+			],
+			[
+				"theme",
+				"UI: Select Theme"
+			],
+			[
+				"out",
+				"Emmet: Balance Outward"
+			],
+			[
+				"tag",
+				"Emmet: Go to Tag Pair"
+			],
+			[
+				"outward",
+				"Emmet: Balance Outward"
+			],
+			[
+				"colo",
+				"UI: Select Color Scheme"
+			],
+			[
+				"goto",
+				"Emmet: Go to Tag Pair"
+			],
+			[
+				"Snippet: ",
+				"Snippet: <?php else: ?>"
+			],
+			[
+				"java",
+				"Set Syntax: Java"
+			],
+			[
+				"c++",
+				"Set Syntax: C++"
+			],
+			[
+				"njk",
+				"Set Syntax: Nunjucks"
+			],
+			[
+				"javs",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"selection",
+				"Selection: Expand to Line Upward"
+			],
+			[
+				"nun",
+				"Set Syntax: Nunjucks"
+			],
+			[
+				"mar",
+				"Set Syntax: Markdown"
+			],
+			[
+				"latex",
+				"Set Syntax: LaTeX"
+			],
+			[
+				"Late",
+				"Set Syntax: LaTeX"
+			],
+			[
+				"remoe",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: list",
+				"Package Control: List Packages"
+			],
+			[
+				"jsno",
+				"Set Syntax: JSON"
+			],
+			[
+				"javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"haml",
+				"Set Syntax: HAML"
+			],
+			[
+				"javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"html go",
+				"Set Syntax: HTML (Go)"
+			],
+			[
+				"eslint",
+				"SublimeLinter: Reload SublimeLinter and its Plugins"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"javascrip",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"pytho",
+				"Set Syntax: Python"
+			],
+			[
+				"sett",
+				"Preferences: Settings"
+			],
+			[
+				"type",
+				"Set Syntax: TypeScript"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"xml",
+				"Set Syntax: XML"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"text",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"ja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"pla",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"wrap with",
+				"Emmet: Wrap with Abbreviation"
+			],
+			[
+				"balance",
+				"Emmet: Balance Outward"
+			],
+			[
+				"sass",
+				"Set Syntax: Sass"
+			],
+			[
+				"markdown",
+				"Set Syntax: Markdown"
+			],
+			[
+				"select",
+				"UI: Select Color Scheme"
+			],
+			[
+				"ty",
+				"Set Syntax: TypeScript"
+			],
+			[
+				"hml",
+				"Set Syntax: HTML"
+			],
+			[
+				"javascr",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"c",
+				"Set Syntax: C++"
+			],
+			[
+				"package",
+				"Package Control: List Packages"
+			],
+			[
+				"tsx",
+				"Set Syntax: TSX"
+			],
+			[
+				"javascri",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"select color",
+				"UI: Select Color Scheme"
+			],
+			[
+				"sele",
+				"UI: Select Theme"
+			],
+			[
+				"javascript",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"renma",
+				"Emmet: Rename Tag"
+			],
+			[
+				"remove ",
+				"Package Control: Remove Package"
+			],
+			[
+				"select colo",
+				"UI: Select Color Scheme"
+			],
+			[
+				"rename tag",
+				"Emmet: Rename Tag"
+			],
+			[
+				"rename ttag",
+				"Emmet: Rename Tag"
+			],
+			[
+				"settings",
+				"Preferences: Settings"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"sideba",
+				"View: Toggle Open Files in Side Bar"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 671.0,
+		"history":
+		[
+			"clrscr",
+			"clear",
+			"cls"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/xampp/htdocs/wpdev/wp-content/themes/mytheme"
+	],
+	"file_history":
+	[
+		"/C/xampp/htdocs/wpdev/wp-content/themes/mytheme/css/scss/card/_singlePost.scss",
+		"/C/xampp/htdocs/wpdev/wp-content/themes/mytheme/css/scss/card/_archive.scss",
+		"/C/xampp/htdocs/wpdev/wp-content/themes/mytheme/css/scss/_reset.scss",
+		"/C/xampp/htdocs/wpdev/wp-content/themes/mytheme/css/scss/_utilities.scss",
+		"/C/xampp/htdocs/wpdev/wp-content/themes/mytheme/css/scss/_navbar.scss",
+		"/C/xampp/htdocs/wpdev/wp-content/themes/mytheme/css/scss/_pagination.scss",
+		"/C/xampp/htdocs/wpdev/wp-content/themes/mytheme/css/scss/main.scss",
+		"/C/xampp/htdocs/wpdev/wp-content/themes/mytheme/css/main.css",
+		"/C/xampp/htdocs/wpdev/wp-content/themes/mytheme/css/scss/mixins/_flexbox.scss",
+		"/C/xampp/htdocs/wpdev/wp-content/themes/mytheme/css/scss/_mixins.scss",
+		"/C/xampp/htdocs/wpdev/wp-content/themes/mytheme/package.json",
+		"/C/xampp/htdocs/wpdev/wp-content/themes/mytheme/css/scss/_base.scss",
+		"/C/xampp/htdocs/wpdev/wp-content/themes/mytheme/gulpfile.js",
+		"/C/xampp/htdocs/wpdev/wp-content/themes/mytheme/wpdev-mytheme.sublime-project",
+		"/C/Users/Avite/Documents/Avinash/Projects/github-projects/test/gulpfile.js",
+		"/C/xampp/htdocs/wpdev/wp-content/themes/mytheme/functions.php",
+		"/C/Users/Avite/Documents/Avinash/Projects/github-projects/test/css/scss/_base.scss",
+		"/C/xampp/htdocs/wpdev/wp-content/themes/mytheme/node_modules/bs-recipes/recipes/grunt.html.injection/app/css/main.css",
+		"/C/xampp/htdocs/wpdev/wp-content/themes/mytheme/css/scss/card/_single-post.scss",
+		"/C/xampp/htdocs/wpdev/wp-content/themes/mytheme/css/scss/_navigation.scss",
+		"/C/xampp/htdocs/wpdev/wp-content/themes/mytheme/css/scss/card/_archive.php",
+		"/C/xampp/htdocs/wpdev/wp-content/themes/mytheme/single.php",
+		"/C/xampp/htdocs/wpdev/wp-content/themes/mytheme/.gitignore",
+		"/C/xampp/htdocs/wpdev/wp-content/themes/mytheme/includes/section-post-thumbnail.php",
+		"/C/xampp/htdocs/wpdev/wp-content/themes/mytheme/includes/section-post.php",
+		"/C/xampp/htdocs/wpdev/wp-content/themes/mytheme/includes/section-archive.php",
+		"/C/Users/Avite/Documents/Avinash/MASTER/Master Python/Routine.md",
+		"/C/Users/Avite/Documents/Avinash/MASTER/Master Python/Prep_Status.txt",
+		"/C/xampp/htdocs/moodle-tut/style.css",
+		"/C/xampp/htdocs/moodle-tut/index.php",
+		"/C/xampp/htdocs/app01/index.php",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/xampp/apache/conf/extra/httpd-vhosts.conf",
+		"/C/xampp/apache/conf/httpd.conf",
+		"/C/Users/Avite/Documents/Avinash/MASTER/Master Python/450DSA/linked-list/01-reverse-a-linked-list.py",
+		"/C/Users/Avite/Documents/Avinash/Contents.txt",
+		"/C/Users/Avite/Documents/Avinash/MASTER/Master Python/450_DSA/linked-list/01-reverse-a-linked-list.py",
+		"/D/Made Easy Lectures/ALGO_/Lecture 10.mp4",
+		"/D/Made Easy Lectures/ALGO_/Contents.txt",
+		"/C/Users/Avite/Documents/Avinash/MASTER/Master Python/test.py",
+		"/C/Users/Avite/Documents/Avinash/MASTER/Master Python/TechWithTim/TWT_01_Python_CrashCourse.py",
+		"/C/Users/Avite/Documents/Avinash/MASTER/Master Python/TechWithTim/TWT_02_OOP.py",
+		"/C/Users/Avite/Documents/Avinash/MASTER/Master SQL/College.sql",
+		"/C/Users/Avite/Documents/Avinash/MASTER/Master Python/MySirG/06_and_07_Doubly_Linked_List.py",
+		"/C/Users/Avite/Documents/Avinash/MASTER/Master Python/MySirG/04_and_05_Singly_Linked_List.py",
+		"/C/Users/Avite/Documents/Avinash/MASTER/Master Python/MySirG/04_Singly_Linked_List.py",
+		"/C/Users/Avite/Documents/Avinash/MASTER/Master C Plus Plus/CPP PRACTICE/program.cpp",
+		"/C/Users/Avite/Documents/Avinash/MASTER/Master SQL/MyQueries.sql",
+		"/C/Users/Avite/Documents/youtube-projects/login-form/jquery-plugins/Multilevel-Sliding-Menu-jQuery-Mobile-Menu/dist/jquery-simple-mobilemenu.js",
+		"/C/Users/Avite/Documents/youtube-projects/login-form/jquery-plugins/Multilevel-Sliding-Menu-jQuery-Mobile-Menu/dist/styles/custom-simple-mobilemenu.css",
+		"/C/Users/Avite/Documents/youtube-projects/login-form/jquery-plugins/Multilevel-Sliding-Menu-jQuery-Mobile-Menu/dist/index.html",
+		"/C/Users/Avite/Documents/youtube-projects/login-form/jquery-plugins/Multilevel-Sliding-Menu-jQuery-Mobile-Menu/demo/index.html",
+		"/C/Users/Avite/Documents/youtube-projects/login-form/jquery-plugins/Multilevel-Sliding-Menu-jQuery-Mobile-Menu/dist/styles/jquery-simple-mobilemenu.css",
+		"/C/Users/Avite/Documents/youtube-projects/login-form/jquery-plugins/Multilevel-Sliding-Menu-jQuery-Mobile-Menu/dist/images/home.svg",
+		"/C/Users/Avite/Documents/youtube-projects/login-form/jquery-plugins/seo-slideshow-carousel/test/test-slider.html",
+		"/C/xampp/phpMyAdmin/config.inc.php",
+		"/C/xampp/mysql/bin/my.ini",
+		"/C/Users/Avite/Documents/Avinash/MASTER/Master SQL/2024-03-21-session.md",
+		"/C/Users/Avite/Documents/Avinash/MASTER/Master SQL/2024-03-11-session.md",
+		"/C/Users/Avite/Documents/Avinash/MASTER/Master Python/MySirG/Notes/05_Singly_Linked_List_ImplementationCode.py",
+		"/C/Users/Avite/Documents/Avinash/MASTER/Notifications.md",
+		"/C/Users/Avite/Documents/youtube-projects/login-form/index.html",
+		"/C/Users/Avite/Documents/youtube-projects/login-form/style.css",
+		"/C/Users/Avite/Documents/youtube-projects/login-form/heat.html",
+		"/C/Users/Avite/Documents/Avinash/MASTER/Master C Plus Plus/CPP PRACTICE/inputf.in",
+		"/C/Users/Avite/Documents/Avinash/MASTER/Master C Plus Plus/CPP PRACTICE/OOP/studentInfo-oop.cpp",
+		"/C/Users/Avite/Documents/Avinash/Projects/mini_series_tutorials/quickstart/hugo.toml",
+		"/C/Users/Avite/Documents/Avinash/Projects/mini_series_tutorials/quickstart/themes/mainroad/assets/css/style.css",
+		"/C/Users/Avite/Documents/Avinash/Projects/mini_series_tutorials/quickstart/content/post/hugo-crash-course.md",
+		"/C/Users/Avite/Documents/Avinash/Projects/mini_series_tutorials/quickstart/content/post/hello-world.md",
+		"/C/Users/Avite/Documents/Avinash/Projects/mini_series_tutorials/quickstart/themes/mainroad/theme.toml",
+		"/C/Users/Avite/Documents/Avinash/Projects/mini_series_tutorials/quickstart/themes/mainroad/.postcssrc",
+		"/C/Users/Avite/Documents/Avinash/Projects/mini_series_tutorials/quickstart/themes/mainroad/package.json",
+		"/C/Users/Avite/Documents/Avinash/Projects/mini_series_tutorials/quickstart/archetypes/default.md",
+		"/C/Users/Avite/Documents/Avinash/Projects/mini_series_tutorials/quickstart/content/post/hugo-ssg-crash-course.md",
+		"/C/Users/Avite/Documents/Avinash/Projects/mini_series_tutorials/quickstart/themes/mainroad/exampleSite/content/post/basic-elements.md",
+		"/C/Users/Avite/Documents/Avinash/MASTER/Master SQL/college.sql",
+		"/C/Users/Avite/Documents/Avinash/Master Python/450_DSA/linked-list/01-reverse-a-linked-list.py",
+		"/C/Users/Avite/Documents/Avinash/Master Python/Routine.md",
+		"/C/Users/Avite/Videos/MadeEasy/DBMS/SQL-Queries-Examples.sql",
+		"/C/Users/Avite/Documents/Avinash/Master Python/test.py",
+		"/C/Users/Avite/Documents/Avinash/Master Python/TechWithTim/TWT_01_Python_CrashCourse.py",
+		"/C/Users/Avite/Documents/Avinash/Master Python/MySirG/04_Singly_Linked_List.py",
+		"/C/Users/Avite/Documents/Avinash/Master Python/MySirG/Notes/05_Singly_Linked_List_ImplementationCode.py",
+		"/C/Users/Avite/Documents/Avinash/Master Python/Prep_Status.txt",
+		"/C/Users/Avite/Documents/Avinash/Master Python/TechWithTim/TWT_02_OOP.py",
+		"/C/Users/Avite/Documents/Avinash/Master Python/MySirG/03_classes_and_objects.py",
+		"/C/Users/Avite/Documents/Avinash/Master C Plus Plus/CPP PRACTICE/OOP/pointer-to-class.cpp",
+		"/C/Users/Avite/Documents/Avinash/Master Python/MySirG/02_Array_and_List.py",
+		"/C/Users/Avite/Documents/Avinash/Projects/github-projects/experimentals/data.json",
+		"/C/Users/Avite/Documents/Avinash/Projects/github-projects/experimentals/jquery-colleges-navbar/index.html",
+		"/C/Users/Avite/Documents/Avinash/Projects/github-projects/experimentals/jquery-colleges-navbar/menuData.json",
+		"/C/Users/Avite/Documents/Avinash/Projects/github-projects/experimentals/jquery-colleges-navbar/mega.html",
+		"/C/Users/Avite/Documents/Avinash/Projects/github-projects/experimentals/custom-news/index.html",
+		"/C/Users/Avite/Documents/Avinash/Projects/github-projects/temp/style.css",
+		"/C/Users/Avite/Documents/Avinash/Projects/github-projects/temp/index.html",
+		"/C/Users/Avite/Documents/Avinash/Projects/github-projects/temp/menuData.json",
+		"/C/Users/Avite/Documents/Avinash/Projects/github-projects/temp/mega.html",
+		"/C/Users/Avite/Documents/Avinash/Projects/github-projects/temp/main.js",
+		"/C/Users/Avite/Documents/Avinash/Projects/github-projects/temp/menu.svg",
+		"/C/Users/Avite/Documents/Avinash/Projects/github-projects/temp/close.svg",
+		"/C/Users/Avite/Documents/Avinash/Projects/github-projects/temp/chevron-down.svg",
+		"/C/Users/Avite/Documents/Avinash/Master C Plus Plus/CPP PRACTICE/program.cpp",
+		"/C/Users/Avite/Documents/Avinash/Projects/github-projects/experimentals/custom-news/main.js",
+		"/C/Users/Avite/Documents/Avinash/Projects/github-projects/experimentals/custom-news/style.css",
+		"/C/Users/Avite/Documents/Avinash/Projects/github-projects/experimentals/custom-news/data.json",
+		"/C/Users/Avite/Documents/Avinash/Projects/github-projects/experimentals/README.md",
+		"/C/Users/Avite/Documents/Avinash/Projects/github-projects/experimentals/ui-design-challenges.html",
+		"/C/Users/Avite/Documents/Avinash/Master C Plus Plus/CPP PRACTICE/OOP/studentInfo-oop.cpp",
+		"/C/Users/Avite/Documents/Avinash/Master C Plus Plus/CPP PRACTICE/OOP/basicString-oop.cpp",
+		"/C/Users/Avite/Documents/Avinash/Master C Plus Plus/CPP PRACTICE/52824/basicString-oop.cpp",
+		"/C/Users/Avite/Documents/Avinash/Master C Plus Plus/CPP PRACTICE/52824/areaCircle-oop.cpp",
+		"/C/Users/Avite/Documents/Avinash/Master C Plus Plus/CPP PRACTICE/outputf.in",
+		"/C/Users/Avite/Documents/Avinash/Master C Plus Plus/CPP PRACTICE/inputf.in",
+		"/C/Users/Avite/Documents/Avinash/Master C Plus Plus/CPP PRACTICE/52824/dateExample-oop.cpp",
+		"/C/Users/Avite/Documents/Avinash/Master C Plus Plus/CPP PRACTICE/41024/outputf.in",
+		"/C/Users/Avite/Documents/Avinash/Master C Plus Plus/CPP PRACTICE/41024/inputf.in",
+		"/C/Users/Avite/Documents/Avinash/Master C Plus Plus/CPP PRACTICE/41024/binary-to-hexadecimal.cpp",
+		"/C/Users/Avite/Documents/Avinash/Master Python/TWT_02_OOP.py",
+		"/C/Users/Avite/Documents/Avinash/Master Python/TWT_01_Python_CrashCourse.py",
+		"/C/Users/Avite/Documents/Avinash/Master Python/Routine.png",
+		"/C/Users/Avite/Documents/Avinash/Master Python/test.md",
+		"/C/Users/Avite/AppData/Roaming/Sublime Text/Packages/User/custom-div-snippet.sublime-snippet",
+		"/C/Users/Avite/Documents/Avinash/Projects/github-projects/ssc-gd-result/index.html",
+		"/C/Users/Avite/Documents/Avinash/Projects/github-projects/experimentals/website-remakes.html",
+		"/C/Users/Avite/Documents/Avinash/Master Python/Notes/pdf_customized-notes/index.html",
+		"/C/Users/Avite/Documents/Avinash/Projects/responsive-navbar-jquery/main.js",
+		"/C/Users/Avite/Documents/Avinash/Projects/mini_series_tutorials/postcss-demo/node_modules/caniuse-lite/data/features/intersectionobserver-v2.js"
+	],
+	"find":
+	{
+		"height": 38.4
+	},
+	"find_in_files":
+	{
+		"height": 507.2,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"active-page",
+			"active",
+			"aaa",
+			"hover",
+			"include",
+			"@extend %active-page",
+			"%page",
+			"border",
+			"archive",
+			"ul"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "single.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2281,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"color_helper.box_height": 21,
+							"color_helper.color_scheme": "Monokai Pro (Filter Octagon).sublime-color-scheme",
+							"color_helper.refresh": true,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "includes/section-post.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 607,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								385,
+								385
+							]
+						],
+						"settings":
+						{
+							"color_helper.box_height": 21,
+							"color_helper.color_scheme": "Monokai Pro (Filter Octagon).sublime-color-scheme",
+							"color_helper.refresh": true,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "functions.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1308,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								316,
+								316
+							]
+						],
+						"settings":
+						{
+							"color_helper.box_height": 21,
+							"color_helper.color_scheme": "Monokai Pro (Filter Octagon).sublime-color-scheme",
+							"color_helper.refresh": true,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "template-contactus.php",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 996,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								396,
+								396
+							]
+						],
+						"settings":
+						{
+							"color_helper.box_height": 21,
+							"color_helper.color_scheme": "Monokai Pro (Filter Octagon).sublime-color-scheme",
+							"color_helper.refresh": false,
+							"color_helper.scan":
+							{
+								"allow_scanning": true,
+								"color_class":
+								[
+									{
+										"class": "css-level-4",
+										"scopes": ""
+									}
+								],
+								"color_trigger": "(?xi)\n(?:\n    \\b(?<![-#&$])(?:\n        color\\((?!\\s*-)|(?:hsla?|(?:ok)?(?:lch|lab)|hwb|rgba?)\\(\n) |\n\\b(?<![-#&$])[\\w]{3,}(?![(-])\\b|(?<![&])\\#)\n",
+								"current_ext": ".php",
+								"current_syntax": "PHP/PHP",
+								"enabled": true,
+								"last_updated": 1720192010.86,
+								"scanning": "meta.declaration-list.css -support.type.property-name.css -comment -string,meta.property-value.css -comment -string,meta.value.css -comment -string,meta.tag.inline.any.html string.quoted -constant.character.entity.html,meta.tag.any.html meta.attribute-with-value.style.html"
+							},
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 355.2,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 38.4
+	},
+	"input":
+	{
+		"height": 171.2
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.SublimeLinter Messages":
+	{
+		"height": 156.0
+	},
+	"output.Terminus":
+	{
+		"height": 146.399993896
+	},
+	"output.astyle_error_message":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 239.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "wpdev-mytheme.sublime-project",
+	"replace":
+	{
+		"height": 73.6
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"section-pos",
+				"includes\\section-post.php"
+			],
+			[
+				"single",
+				"single.php"
+			],
+			[
+				"main",
+				"css\\main.css"
+			],
+			[
+				"main.css",
+				"node_modules\\bs-recipes\\recipes\\grunt.html.injection\\app\\css\\main.css"
+			],
+			[
+				"functio",
+				"functions.php"
+			],
+			[
+				"index.jsx",
+				"src\\pages\\auth\\index.jsx"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 291.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 2
+	}
+}

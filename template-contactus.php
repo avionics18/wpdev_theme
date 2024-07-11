@@ -11,7 +11,7 @@ Template Name: Contact Us
   <div class="container py-5">
     <div class="row">
       <div class="col-lg-8">
-        <div class="card">
+        <div class="card mb-3">
           <div class="card-body">
             <?php get_template_part("includes/section", "content"); ?>
           </div>

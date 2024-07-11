@@ -1,0 +1,13 @@
+@mixin flexbox($cross-axis-align: center, $main-axis-align: center, $flex-direction: null, $gap: null) {
+  display: flex;
+  align-items: $cross-axis-align;
+  justify-content: $main-axis-align;
+
+  @if $flex-direction != null {
+    flex-direction: $flex-direction;
+  }
+
+  @if $gap != null {
+    gap: $gap;
+  }
+}

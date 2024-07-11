@@ -1,11 +1,6 @@
-/*
-====================================
-          Base Overrides
-====================================
-*/
-
+/* Base Overrides */
 body {
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Montserrat", sans-serif;
   background-color: var(--bs-light);
 }
 
@@ -16,20 +11,11 @@ pre {
 }
 
 code, kbd, pre, samp {
-  font-family: 'JetBrains Mono', var(--bs-font-monospace);
+  font-family: "JetBrains Mono", var(--bs-font-monospace);
 }
 
-
-/*
-====================================
-            Main Navbar
-====================================
-*/
-
+/* Main Navbar */
 .main-navbar {
-  background: linear-gradient(0deg, var(--bs-dark), var(--black));
-  font-size: 14px;
-
   --primary: var(--bs-primary);
   --primary-dark: var(--bs-primary-text-emphasis);
   --light: var(--bs-light);
@@ -37,32 +23,29 @@ code, kbd, pre, samp {
   --white: var(--bs-white);
   --black: var(--bs-black);
   --shadow-base: var(--bs-box-shadow);
+  --bs-dropdown-zindex: 1000;
+  background: linear-gradient(0deg, var(--bs-dark), var(--black));
+  font-size: 14px;
 }
-
 .main-navbar .navbar-responsive-header {
   display: none;
 }
-
 .main-navbar #menu-toggler {
   display: none;
 }
-
 .main-navbar ul {
   margin: 0;
   padding: 0;
   list-style: none;
 }
-
-.main-navbar ul.menu {
+.main-navbar .menu {
   display: flex;
 }
-
-.main-navbar ul.menu li {
+.main-navbar .menu li {
   position: relative;
-  z-index: 1000;
+  z-index: var(--bs-dropdown-zindex);
 }
-
-.main-navbar ul.menu > li > a {
+.main-navbar .menu > li > a {
   color: var(--white);
   padding: 0.7rem 1rem;
   text-decoration: none;
@@ -71,22 +54,17 @@ code, kbd, pre, samp {
   justify-content: space-between;
   transition: 0.25s;
 }
-
-.main-navbar ul.menu > li > a:hover,
-.main-navbar ul.menu > li > a.active {
+.main-navbar .menu > li > a:hover, .main-navbar .menu > li > a.active {
   background-color: var(--primary);
 }
-
-.main-navbar ul.menu > li > a > svg.feather-chevron-down {
+.main-navbar .menu > li > a > svg.feather-chevron-down {
   margin-left: 4px;
   transition: 0.25s;
 }
-
-.main-navbar ul.menu > li > a.active > svg.feather-chevron-down {
+.main-navbar .menu > li > a.active > svg.feather-chevron-down {
   transform: rotate(180deg);
 }
-
-.main-navbar ul.sub-menu {
+.main-navbar .sub-menu {
   display: none;
   position: absolute;
   background-color: var(--white);
@@ -94,8 +72,7 @@ code, kbd, pre, samp {
   padding: 8px 0;
   box-shadow: var(--shadow-base);
 }
-
-.main-navbar ul.sub-menu::before {
+.main-navbar .sub-menu::before {
   content: " ";
   display: inline-block;
   width: 8px;
@@ -106,37 +83,30 @@ code, kbd, pre, samp {
   top: -4px;
   left: 24px;
 }
-
-.main-navbar ul.sub-menu > li > a {
+.main-navbar .sub-menu > li > a {
   display: block;
   color: var(--black);
   padding: 0.5rem 0.75rem;
   text-decoration: none;
 }
-
-.main-navbar ul.sub-menu > li > a:hover {
+.main-navbar .sub-menu > li > a:hover {
   color: var(--white);
   background-color: var(--primary);
 }
 
-
-/*  ===Mobile Screen===  */
 @media screen and (max-width: 425px) {
   .main-navbar {
     padding: 12px 0;
   }
-
   .main-navbar .navbar-responsive-header {
     display: flex;
     align-items: center;
     justify-content: space-between;
   }
-
   .main-navbar .navbar-responsive-header span {
     color: var(--white);
     font-weight: bold;
   }
-
   .main-navbar #menu-toggler {
     display: inline-flex;
     align-items: center;
@@ -147,34 +117,21 @@ code, kbd, pre, samp {
     width: 30px;
     height: 30px;
   }
-
   .main-navbar #menu-toggler .feather-x {
     display: none;
   }
-
-  .main-navbar ul.menu {
+  .main-navbar .menu {
     display: none;
     margin: 16px 0;
     flex-direction: column;
   }
-
-  .main-navbar ul.sub-menu {
+  .main-navbar .sub-menu {
     position: initial;
   }
-
-  .main-navbar ul.sub-menu::before {
+  .main-navbar .sub-menu::before {
     top: 46px;
   }
 }
-
-
-
-/*
-====================================
-            Custom CSS
-====================================
-*/
-
 /* Archive Pages - Card */
 .archive-post-card .card-title a {
   font-weight: bold;
@@ -182,17 +139,25 @@ code, kbd, pre, samp {
   color: var(--bs-dark);
   transition: 0.25s;
 }
-
-.archive-post-card .card-title a:hover,
-.archive-post-card .card-title a:focus {
+.archive-post-card .card-title a:hover, .archive-post-card .card-title a:focus {
   color: var(--bs-primary);
   text-decoration: underline;
   text-underline-offset: 4px;
 }
 
+/* Single Post - Card */
+.single-post-card img:not(.card-img-top) {
+  max-width: 100%;
+  border: 5px solid var(--bs-border-color-translucent);
+}
+
+.ads {
+  width: 100%;
+  height: 300px;
+}
+
 /* Pagination */
-.archive-pagination,
-.post-pagination {
+.archive-pagination, .post-pagination {
   display: flex;
   align-items: center;
   justify-content: center;
@@ -211,33 +176,15 @@ code, kbd, pre, samp {
 }
 
 .archive-pagination .page-numbers:hover,
-.archive-pagination .page-numbers.current,
 .post-pagination .post-page-numbers:hover,
+.archive-pagination .page-numbers.current,
 .post-pagination .post-page-numbers.current {
   color: var(--bs-white);
   background-color: var(--bs-primary);
   border-color: var(--bs-primary);
 }
 
-/* Single Post */
-.single-post-card img:not(.card-img-top) {
-  max-width: 100%;
-  border: 5px solid var(--bs-border-color-translucent);
-}
-
-.ads {
-  width: 100%;
-  height: 300px;
-}
-
-
-
-/*
-====================================
-          Custom Utilities
-====================================
-*/
-
+/* Custom Utilities */
 .ff-heading {
-  font-family: 'Oswald', sans-serif;
+  font-family: "Oswald", sans-serif;
 }

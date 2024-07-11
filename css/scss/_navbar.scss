@@ -1,0 +1,139 @@
+.main-navbar {
+  --primary: var(--bs-primary);
+  --primary-dark: var(--bs-primary-text-emphasis);
+  --light: var(--bs-light);
+  --dark: var(--bs-dark);
+  --white: var(--bs-white);
+  --black: var(--bs-black);
+  --shadow-base: var(--bs-box-shadow);
+  --bs-dropdown-zindex: 1000;
+
+  background: linear-gradient(0deg, var(--bs-dark), var(--black));
+  font-size: 14px;
+
+  .navbar-responsive-header {
+    display: none;
+  }
+
+  #menu-toggler {
+    display: none;
+  }
+
+  ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  .menu {
+    display: flex;
+
+    li {
+      position: relative;
+      z-index: var(--bs-dropdown-zindex);
+    }
+
+    & > li > a {
+      color: var(--white);
+      padding: 0.7rem 1rem;
+      text-decoration: none;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      transition: 0.25s;
+
+      &:hover, &.active {
+        background-color: var(--primary);
+      }
+
+      & > svg.feather-chevron-down {
+        margin-left: 4px;
+        transition: 0.25s;
+      }
+
+      &.active > svg.feather-chevron-down {
+        transform: rotate(180deg);
+      }
+    }
+  }
+
+  .sub-menu {
+    display: none;
+    position: absolute;
+    background-color: var(--white);
+    min-width: 200px;
+    padding: 8px 0;
+    box-shadow: var(--shadow-base);
+
+    &::before {
+      content: " ";
+      display: inline-block;
+      width: 8px;
+      height: 8px;
+      background-color: var(--white);
+      transform: rotate(45deg);
+      position: absolute;
+      top: -4px;
+      left: 24px;
+    }
+
+    & > li > a {
+      display: block;
+      color: var(--black);
+      padding: 0.5rem 0.75rem;
+      text-decoration: none;
+
+      &:hover {
+        color: var(--white);
+        background-color: var(--primary);
+      }
+    }
+  }
+}
+
+//  ===Mobile Screen===
+@media screen and (max-width: 425px) {
+  .main-navbar {
+    padding: 12px 0;
+
+    .navbar-responsive-header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+
+      span {
+        color: var(--white);
+        font-weight: bold;
+      }
+    }
+
+    #menu-toggler {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      background-color: var(--black);
+      color: var(--white);
+      border: 1px solid var(--white);
+      width: 30px;
+      height: 30px;
+
+      .feather-x {
+        display: none;
+      }
+    }
+
+    .menu {
+      display: none;
+      margin: 16px 0;
+      flex-direction: column;
+    }
+
+    .sub-menu {
+      position: initial;
+
+      &::before {
+        top: 46px;
+      }
+    }
+  }
+}

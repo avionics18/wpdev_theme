@@ -16,7 +16,7 @@
   function load_js() {
     wp_enqueue_script("jquery");
 
-    wp_register_script("bootstrap", get_template_directory_uri() . "/js/bootstrap.min.js", array("jquery"), null, true);
+    wp_register_script("bootstrap", get_template_directory_uri() . "/js/bootstrap.bundle.min.js", array("jquery"), null, true);
     wp_enqueue_script("bootstrap");
 
     wp_register_script("main", get_template_directory_uri() . "/js/main.js", array("jquery"), "1.0.0", true);
